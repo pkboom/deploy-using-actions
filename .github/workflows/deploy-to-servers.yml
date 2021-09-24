@@ -60,4 +60,5 @@ jobs:
     steps:
       - run: |
           echo ${{ matrix.server.name }}
-          echo ${{ matrix.server }}
+          echo ${{ matrix.server.ip }}
+          echo ${{ matrix.server.port }}
