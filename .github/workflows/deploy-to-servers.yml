@@ -59,4 +59,5 @@ jobs:
 
     steps:
       - run: |
-          echo matrix.server.name
+          echo ${{ matrix.server.name }}
+          echo ${{ matrix.server }}
