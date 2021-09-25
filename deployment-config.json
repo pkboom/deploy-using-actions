@@ -6,7 +6,7 @@
     "port": "21",
     "beforeHooks": "",
     "afterHooks": "",
-    "path": ""
+    "path": "/var/www/html"
   },
   {
     "name": "server-2",
@@ -15,6 +15,6 @@
     "port": "22",
     "beforeHooks": "",
     "afterHooks": "",
-    "path": ""
+    "path": "/var/www/html"
   }
 ]
