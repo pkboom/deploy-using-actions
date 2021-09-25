@@ -3,7 +3,7 @@
     "name": "server-1",
     "ip": "123.456.78.91",
     "username": "web",
-    "port": "21",
+    "port": "22",
     "beforeHooks": "",
     "afterHooks": "",
     "path": "/var/www/html"
